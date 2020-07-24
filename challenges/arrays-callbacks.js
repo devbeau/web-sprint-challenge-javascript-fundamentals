@@ -87,4 +87,4 @@ console.log("These are the tests for arrays-callbacks.js", consume("Mary", "Popp
 Stretch: If you haven't already, convert your array method callbacks into arrow functions.
 
 */
-
+console.log("Array method callbacks in arrays-callbacks.js utilize arrow functions as per Stretch");
